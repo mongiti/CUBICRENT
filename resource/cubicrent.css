@@ -1,0 +1,27 @@
+body, html {
+    height: 100%;
+}
+
+body {
+  background: url("images/house.jpg")  no-repeat center center fixed; 
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+   height: 450px;
+}
+.cover{
+	margin-top: 150px;
+	position: relative;
+    background: rgba(0, 0, 0, 0.3);
+}
+h1{
+	font-family: Nunito;
+	font-size: 24px;
+	font-style: bold;
+	font-variant: normal;
+	font-weight: 700;
+	line-height: 26.4px;
+	color:gold;
+	
+}
